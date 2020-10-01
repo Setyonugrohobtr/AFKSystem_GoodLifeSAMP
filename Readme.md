@@ -1,4 +1,4 @@
-#AFKSystem_GoodLifeSAMP
+AFKSystem_GoodLifeSAMP
 Sistem AFK player, dimana player bisa melakukan AFK di dalam Ingame tanpa perlu keluar dari server.
 
 Menjaga Player agar tetap ditempat sehingga tidak akan terjadi Trolling dari player lain.
